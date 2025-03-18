@@ -132,3 +132,7 @@ img{
     color:#737373;
     font-size: 11px;
 }
+
+@media(width < 500px ){
+    .container{
+        margin-inline:auto;
