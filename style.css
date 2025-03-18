@@ -134,5 +134,5 @@ img{
 }
 
 @media(width < 500px ){
-    .container{
+    body{
         margin-inline:auto;
